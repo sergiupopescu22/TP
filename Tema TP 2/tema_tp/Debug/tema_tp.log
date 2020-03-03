@@ -1,0 +1,3 @@
+﻿  ex2.c
+c:\users\sergiu popescu\source\repos\tema_tp\tema_tp\ex2.c(77): warning C4013: 'system' undefined; assuming extern returning int
+  tema_tp.vcxproj -> C:\Users\Sergiu Popescu\Source\Repos\tema_tp\Debug\tema_tp.exe
